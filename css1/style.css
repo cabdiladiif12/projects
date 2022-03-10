@@ -1,0 +1,74 @@
+:root{
+  --text-color:#000000;
+  --main-color: #83b735;
+  --stars-color:#fbc02d;
+}
+.container-fluid
+{
+  text-transform: capitalize;
+}
+
+.big-text-1
+{
+    margin-top:100px;
+}
+
+.big-text-1 span
+{
+  font-size: 2rem;
+  color: var(--main-color)
+}
+
+.btn-first
+{
+background: var(--main-color);
+color: #fff;
+}
+/* cards */
+.cards
+{
+  border:none;
+  outline: none;
+  background-color: #fff;
+  border-radius: 20px;
+
+}
+.card:hover
+{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+.star
+{
+  color: var(--stars-color);
+}
+.cost span
+{
+font-weight: bold;
+font-size: 20px;
+}
+.grey-chair
+{
+  background-color:#A0A0A0;
+}
+.rose-chair
+{
+  background:#DF3614;
+}
+.black-chair
+{
+  background: #333;
+}
+.green-chair
+{
+  background: #4E673F;
+}
+
+.yellow-chair
+{
+  background: #BCA302;
+}
+.collection
+{
+  background: var(--main-color);
+}
