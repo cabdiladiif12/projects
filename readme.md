@@ -3,7 +3,7 @@
     AUTHOR
 
  * i'm abdi cabdiladiif12
- ![SAWIRKA AUTHOR](img/image1.jpg)
+ ![SAWIRKA AUTHOR](fadhi1.jpg)
 
        MY PROGRAM
  * my program is begin website
