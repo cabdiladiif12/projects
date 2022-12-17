@@ -19,5 +19,10 @@
 |----|------|-----|
 |ABDI LADIIF|https://github.com/cabdiladiif12 |613734657|
 
+## the result is here
+
+                                https://cabdiladiif12.github.io/projects/
+
+
               COPYRIGHT
 copyright 2022 https://githup.com/cabdiladiif12
